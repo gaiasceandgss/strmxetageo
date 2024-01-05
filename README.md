@@ -1,7 +1,5 @@
-# Welcome to streamlit
+# Custom HTML5 Video Player
 
-This is the app you get when you run `streamlit hello`, extracted as its own app.
+## [See Live](https://codepen.io/hicoders/pen/ZExMmLG)
 
-Edit [Hello.py](./Hello.py) to customize this app to your heart's desire. ❤️
-
-Check it out on [Streamlit Community Cloud](https://st-hello-app.streamlit.app/)
+![](preview.png)
